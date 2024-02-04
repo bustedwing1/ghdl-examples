@@ -23,7 +23,7 @@ then you can build ghdl from source
 
 ```bash
 sudo apt update
-sudo apt install gnat-gps
+sudo apt install gnat
 git clone https://github.com/ghdl/ghdl
 cd ghdl
 ./configure
