@@ -61,7 +61,7 @@ View Signal Waves with GTKWave
 ------------------------------
 
 ```bash
-gtkwave test.vhd
+gtkwave test.vcd
 ```
 
 
